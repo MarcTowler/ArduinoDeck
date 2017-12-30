@@ -1,7 +1,7 @@
 # ArduinoDeck
 Alternative method of controlling system functions using a touchscreen shield on an arduino. Mostly targeted towards streamers looking for a method to control OBS while streaming.
 
-![Arduino Deck](https://github.com/MikeJewski/ArduinoDeck/edit/master/ArduinoDeck.jpg?raw=true)
+![Arduino Deck](https://github.com/MikeJewski/ArduinoDeck/blob/master/ArduinoDeck.jpg)
 
 ## Hardware
 
@@ -57,7 +57,7 @@ Make sure not to move anything out of any of the folders/change names of files. 
 
 Using a relatively blank layout:
 
-![Layout](https://github.com/MikeJewski/ArduinoDeck/edit/master/ArduinoDeckLayout.png?raw=true)
+![Layout](https://github.com/MikeJewski/ArduinoDeck/blob/master/ArduinoDeckLayout.png)
 
 1. Highlighted button: This is the current active button (Outlined in light grey). Any actions done in the right hand panel will be applied to this button.
 2. Unhighlighted button: This is what the rest of the buttons will look like. If clicked on, these buttons will become the active button. This they are clicked and held, the button is able to be moved to a new location.
